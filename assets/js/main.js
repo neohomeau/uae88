@@ -82,8 +82,8 @@ if(form){
   bd.className = 'modal-backdrop';
   bd.innerHTML = `
     <div class="modal">
-      <h3>Welcome to Neospin</h3>
-      <p>Are you accepting our policy to play the game? This notice is informational and does not block access.</p>
+      <h3>We use Cookies</h3>
+      <p>By selecting "Yes, Accept" you acknowledge our Cookie Policy and confirm that you have reviewed our Privacy Policy.</p>
       <div style="display:flex;gap:10px;flex-wrap:wrap">
         <button class="btn" id="age-yes">Yes, Accept</button>
         <button class="btn ghost" id="age-no">Close</button>
